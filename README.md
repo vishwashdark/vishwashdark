@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning java and c++
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me vishsharma2003@gmail.com
+- 📫 How to reach me linkedin.com/in/vishwash-sharma-b51057212
 
 <!---
 vishwashdark/vishwashdark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
