@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishwashdark
+- 👋 Hi, I’m @vishwash sharma
 - 👀 I’m interested in learning java and c++
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on github
