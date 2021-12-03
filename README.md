@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishwash sharma
-- 👀 I’m interested in learning java and c++
-- 🌱 I’m currently learning java
+- 👀 I’m interested in learning java and c
+- 🌱 I’m currently learning java and also python.
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me https://www.linkedin.com/in/vishwash-sharma-b51057212/
 
