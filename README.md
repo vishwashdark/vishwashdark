@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning java and also python.
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me https://www.linkedin.com/in/vishwash-sharma-b51057212/
+- Google Scholar Link: https://scholar.google.com/citations?user=dGCjw00AAAAJ&hl=en&oi=ao
 - drive link 2: https://drive.google.com/drive/folders/1toSHiBhPXn9uUSwc9JYzdmorJjdFsKzn?usp=sharing
 
 <!---
