@@ -2,9 +2,9 @@
 
 ## About Me
 
-- 👀 I’m interested in learning Java and C.
+- 👀 I’m interested in learning Java and Machine Learning.
 - 🌱 Currently, I'm learning Java and Python.
-- 💞️ I’m looking to collaborate on GitHub.
+-  I’m looking to collaborate on GitHub.
 - 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/vishwash-sharma-b51057212/).
 
 ## GitHub Stats
