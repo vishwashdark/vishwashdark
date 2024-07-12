@@ -10,9 +10,10 @@
 ## GitHub Stats
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwashdark&show_icons=true&theme=dark" alt="Vishwash's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwashdark&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwashdark&show_icons=true&theme=dark" alt="Vishwash's GitHub Stats" style="width: 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwashdark&layout=compact&theme=dark" alt="Top Langs" style="width: 50%;" />
 </div>
+
 
 ## Publications and Research
 
