@@ -9,12 +9,11 @@
 
 ## GitHub Stats
 
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwashdark&show_icons=true&theme=dark" alt="Vishwash's GitHub Stats" style="width: 50%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwashdark&layout=compact&theme=dark" alt="Top Langs" style="width: 50%;" />
-</div>
+![Vishwash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishwashdark&show_icons=true&theme=dark)
 
+## Most Used Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwashdark&layout=compact&theme=dark)
 ## Publications and Research
 
 Check out my research on [Google Scholar](https://scholar.google.com/citations?user=dGCjw00AAAAJ&hl=en&oi=ao).
